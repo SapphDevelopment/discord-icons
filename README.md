@@ -1,2 +1,2 @@
 # discord-icons
- Almost all Discord emojis, icons and banners
+Some of the Discord stickers, icons, emojis, and a lot more!
